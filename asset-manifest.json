@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-spa/static/css/main.e8433e66.chunk.css",
+    "main.js": "/react-spa/static/js/main.ffd8b5d8.chunk.js",
+    "main.js.map": "/react-spa/static/js/main.ffd8b5d8.chunk.js.map",
+    "runtime-main.js": "/react-spa/static/js/runtime-main.1586cd94.js",
+    "runtime-main.js.map": "/react-spa/static/js/runtime-main.1586cd94.js.map",
+    "static/js/2.5f9ec20e.chunk.js": "/react-spa/static/js/2.5f9ec20e.chunk.js",
+    "static/js/2.5f9ec20e.chunk.js.map": "/react-spa/static/js/2.5f9ec20e.chunk.js.map",
+    "index.html": "/react-spa/index.html",
+    "precache-manifest.15c3e9454f8d1760ccd05b5cd3d00bf9.js": "/react-spa/precache-manifest.15c3e9454f8d1760ccd05b5cd3d00bf9.js",
+    "service-worker.js": "/react-spa/service-worker.js",
+    "static/css/main.e8433e66.chunk.css.map": "/react-spa/static/css/main.e8433e66.chunk.css.map",
+    "static/js/2.5f9ec20e.chunk.js.LICENSE.txt": "/react-spa/static/js/2.5f9ec20e.chunk.js.LICENSE.txt",
+    "static/media/bmw8er.png": "/react-spa/static/media/bmw8er.634847fa.png",
+    "static/media/fusion.png": "/react-spa/static/media/fusion.bcac4328.png",
+    "static/media/homeImage.png": "/react-spa/static/media/homeImage.a4daa9bc.png",
+    "static/media/rav4.png": "/react-spa/static/media/rav4.fe3d2082.png",
+    "static/media/shelby-3821716_1920.png": "/react-spa/static/media/shelby-3821716_1920.0b1892c2.png",
+    "static/media/silverado.png": "/react-spa/static/media/silverado.2be8d192.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1586cd94.js",
+    "static/js/2.5f9ec20e.chunk.js",
+    "static/css/main.e8433e66.chunk.css",
+    "static/js/main.ffd8b5d8.chunk.js"
+  ]
+}
